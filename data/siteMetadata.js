@@ -9,14 +9,14 @@ const siteMetadata = {
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   //siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/pinkFlower.png',
-  socialBanner: '/static/images/twitter-card.png',
-  mastodon: 'https://mastodon.social/@mastodonuser',
+  // socialBanner: '/static/images/twitter-card.png',
+  // mastodon: 'https://mastodon.social/@mastodonuser',
   email: 'kristenroggero@gmail.com',
   github: 'https://github.com/HazelWebDev',
   //twitter: 'https://twitter.com/Twitter',
   //facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com/VibrantKnots',
-  linkedin: 'https://www.linkedin.com/kristenroggero',
+  youtube: 'https://www.youtube.com/channel/UCb-SQv7sPjV78ZS3UYwuB9g',
+  linkedin: 'https://www.linkedin.com/in/kristen-roggero/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
